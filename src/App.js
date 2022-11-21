@@ -1,13 +1,7 @@
-import "./App.css";
+import Say from './Say';
 
-function App() {
-  const name = "리액트";
-  return (
-    <>
-      <h1>ddd</h1>
-      <h1>ddd</h1>
-    </>
-  );
-}
+const App = () => {
+  return <Say />;
+};
 
 export default App;
