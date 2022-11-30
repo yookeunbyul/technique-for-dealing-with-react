@@ -1,7 +1,7 @@
-import IterationSample from './IterationSample';
+import Average from './Average';
 
 const App = () => {
-  return <IterationSample />;
+  return <Average />;
 };
 
 export default App;
