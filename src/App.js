@@ -1,7 +1,7 @@
-import Average from './Average';
+import StyledComponent from './StyledComponent';
 
 const App = () => {
-  return <Average />;
+  return <StyledComponent />;
 };
 
 export default App;
